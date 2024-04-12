@@ -20,5 +20,5 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/python-data-structures-linked-lists-21039506
-[lil-thumbnail-url]: [http://](https://media.licdn.com/dms/image/D4D0DAQGux-kR88_Z9g/learning-public-crop_675_1200/0/1712710126604?e=2147483647&v=beta&t=vkoSqjFwntkPXNq4jSldDUnMcmqbumv4fzOqFj6P4Yg)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D4D0DAQGux-kR88_Z9g/learning-public-crop_675_1200/0/1712710126604?e=2147483647&v=beta&t=vkoSqjFwntkPXNq4jSldDUnMcmqbumv4fzOqFj6P4Yg
 
